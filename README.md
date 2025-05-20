@@ -17,3 +17,14 @@
 # Лабораторная работа №5
 
 Развернуть нейронную сеть на архитектуре MobileNet, детектирующую объекты на видео. Рекомендуемые технологии - keras + MobileNet (https://keras.io/api/applications/mobilenet/) предобученный на imagenet. В качестве входных данных можно использовать видео-файл или входной поток с вебкамеры. 
+
+# Лабораторная работа №6
+
+Вариант 2. Развернуть нейросеть FaceNet и дообучить ее определять членов вашей команды по лицам (фото/видео или поток видеокамеры).  
+Референсы:  
+https://github.com/davidsandberg/facenet
+https://github.com/timesler/facenet-pytorch
+https://github.com/nyoki-mtl/keras-facenet   
+Еще интересные референсы:  https://github.com/weblineindia/AIML-Human-Attributes-Detection-with-Facial-Feature-Extraction
+https://github.com/Golbstein/keras-face-recognition
+https://github.com/naemazam/Real-time-face-recognition-Using-Facenet  (ред.)
