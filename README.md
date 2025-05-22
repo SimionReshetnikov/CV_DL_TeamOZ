@@ -28,3 +28,7 @@ https://github.com/nyoki-mtl/keras-facenet
 Еще интересные референсы:  https://github.com/weblineindia/AIML-Human-Attributes-Detection-with-Facial-Feature-Extraction
 https://github.com/Golbstein/keras-face-recognition
 https://github.com/naemazam/Real-time-face-recognition-Using-Facenet  (ред.)
+
+# Лабораторная работа №7
+
+На основе примера из лекции реализовать GAN, генерирующую изображения одежды (датасет fashion_mnist). Архитектуру нейронки (GAN) менять нельзя, слои изменять/добавлять - можно.
